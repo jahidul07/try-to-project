@@ -1,0 +1,38 @@
+*{
+	margin: 0;
+}
+.container{
+	display: flex;
+	padding: 100px 160px;
+	gap: 50px;
+	background-color: bisque;
+	margin: 100px;
+}
+ .title{
+  text-align: right;
+  margin-top: 50px;
+  margin-left: 20px;
+  font-size: 2rem;
+  color: green;
+  font-weight: bold;
+}
+.desc{
+	text-align: right;
+	font-size: 1rem;
+	color: aqua;
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+}
+.btn{
+	margin-left: 200px;
+     background-color: orange;
+	 color: white;
+	 padding: 20px;
+	 border-radius: 10px;
+	 border: none;
+	 height: 60px;
+	 width: 200px;
+	 
+}
+
